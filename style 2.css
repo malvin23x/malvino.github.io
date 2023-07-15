@@ -16,4 +16,8 @@ body {
   .navbar{
     color: transparent;
   }
+  @media screen {width: 1000px;}
+        .content aside{
+            width: 1000%;
+        }
   
